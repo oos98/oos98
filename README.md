@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
-https://img.shields.io/badge/java
+<img alt="Static Badge" src="https://img.shields.io/badge/java">
+ 
+
 
 
